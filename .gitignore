@@ -88,3 +88,7 @@ pkg/
 # =========================
 *.swp
 *.swo
+gpt2
+model_and_optimizer.pth 
+model.pth 
+loss-plot.pdf
